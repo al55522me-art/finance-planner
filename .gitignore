@@ -1,0 +1,30 @@
+
+## .gitignore
+
+Создай файл `.gitignore` в корне:
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+.coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
