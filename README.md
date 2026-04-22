@@ -38,5 +38,4 @@ personal-finance-planner/
 │       └── cli.py
 └── tests/
     ├── test_models.py
-    ├── test_manager.py
-    └── test_reports.py
+
