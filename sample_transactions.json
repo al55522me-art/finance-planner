@@ -1,0 +1,39 @@
+{
+  "transactions": [
+    {
+      "type": "income",
+      "amount": 50000,
+      "category": "Salary",
+      "description": "April salary",
+      "date": "2026-04-01T09:00:00"
+    },
+    {
+      "type": "expense",
+      "amount": 1200,
+      "category": "Food",
+      "description": "Groceries",
+      "date": "2026-04-02T18:30:00"
+    },
+    {
+      "type": "expense",
+      "amount": 800,
+      "category": "Transport",
+      "description": "Taxi to university",
+      "date": "2026-04-03T08:15:00"
+    },
+    {
+      "type": "expense",
+      "amount": 2500,
+      "category": "Education",
+      "description": "Python course",
+      "date": "2026-04-04T12:00:00"
+    },
+    {
+      "type": "income",
+      "amount": 10000,
+      "category": "Freelance",
+      "description": "One-time project",
+      "date": "2026-04-10T16:45:00"
+    }
+  ]
+}
